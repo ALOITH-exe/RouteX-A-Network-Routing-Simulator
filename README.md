@@ -41,11 +41,6 @@ Undo | Ctrl + Z |
 
 ---
 
-## 📸 Preview
-*(Add screenshots or GIFs here)*
-
----
-
 ## 📦 Build Instructions (Windows)
 
 ```bash
