@@ -1,4 +1,4 @@
-# RouteX — Network Routing Simulator
+# RouteX: Network Routing Simulator
 
 RouteX is a **visual network routing simulator** built using **C++ and SFML**.  
 It demonstrates **graph construction, Dijkstra’s shortest path algorithm**, and animated packet routing with a modern UI.
