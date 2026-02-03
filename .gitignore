@@ -1,0 +1,21 @@
+# Build files
+*.o
+*.exe
+*.dll
+*.a
+
+# SFML / external libs
+SFML/
+
+# IDE / OS junk
+.vscode/
+.idea/
+*.log
+
+# Build folders
+build/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
